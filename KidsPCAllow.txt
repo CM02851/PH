@@ -1,4 +1,4 @@
-# Name: Kids Block List for PiHole
+# Name: Kids Allow (WhiteList) List for PiHole
 # URL: TBD
 # Last Update: 10 July, 2022
 
