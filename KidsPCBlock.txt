@@ -1,0 +1,5 @@
+# Name: Kids Block List for PiHole
+# URL: TBD
+# Last Update: 10 July, 2022
+
+smurfs.com
